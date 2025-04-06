@@ -13,7 +13,9 @@
 
 ## 4. Approach
 - Tools used (Pandas, Jupyter, Plotly, etc.)
+    * Will Talk about cleaning the data
 - Data sources
+    * Data Sources Listed in the 
 - Metrics calculated
 
 ## 5. Analysis

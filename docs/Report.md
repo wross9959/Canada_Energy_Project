@@ -25,17 +25,17 @@ This project ultimately aims to identify where energy systems are efficient, whe
 This project draws heavily on data and projections published by the Canada Energy Regulator (CER) and Statistics Canada, which serve as foundational resources for energy analysis in Canada. The Canada’s Energy Future 2023 report by CER provided long-term projections on electricity generation, capacity, demand, and emissions through to 2050. It informed the selection of analytical dimensions and helped guide scenario comparisons involving net-zero emission targets and projected shifts in generation technology​.
 
 
-## The issue/problem statement and requirements
+## The issue/problem statement and requirements TODO
 
 
-## Approach
+## Approach DONE
 
 
-## Analysis (All Code, results, and charts)
+## Analysis (All Code, results, and charts) TODO
 
-## Conclusion & Discussion (Summarize the main results and findings from your analysis)
+## Conclusion & Discussion (Summarize the main results and findings from your analysis) TODO
 
 
-## Appendix 
+## Appendix TODO
 
-## References
+## References TODO

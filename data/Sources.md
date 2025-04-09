@@ -1,12 +1,9 @@
 # All Dataset Sources
 
-
 ### Exports and Imports of Electricity Summary
 National Total levels 
 
 - https://apps.cer-rec.gc.ca/CommodityStatistics/Statistics.aspx?language=english
-
-Use this to identify net surplus or deficit trends
 
 ### Exports Summary Report by Source, Authorization and Exchange Type
 Who Exports energy and by what method 
@@ -34,6 +31,8 @@ https://apps.cer-rec.gc.ca/ftrppndc/dflt.aspx?GoCTemplateCulture=en-CA
 
 
 ## Dataset Summary for Green Energy Analysis Project
+
+https://www.cer-rec.gc.ca/en/data-analysis/canada-energy-future/2023/index.html
 
 | File Name                         | Description                                                                 | Purpose in Analysis                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
